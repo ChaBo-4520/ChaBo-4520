@@ -1,5 +1,34 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BoramCha&fontSize=90)
 
+<div>
+
+  <div align=center style="position:relative; right:0">
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaBo-4520&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  </div>
+  <div align="center">
+    <h2 style="font-style:border">🛠 Tech Stack 🛠</h2>
+    <p align="cneter"> Techs that I've used at leas once </p>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  </div>
+
+  <div align=center style="margin-top:3rem">
+    <h3>😎 Contact Me </h3>
+    
+  </div>
+
+  <div align=center style="margin-top:3rem">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaBo-4520&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+  
+</div>
 <!--
 **ChaBo-4520/ChaBo-4520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
