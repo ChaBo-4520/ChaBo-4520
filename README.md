@@ -18,7 +18,7 @@
 
   <div align=center style="margin-top:3rem">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaBo-4520&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaBo-4520&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   
