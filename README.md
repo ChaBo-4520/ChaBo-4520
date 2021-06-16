@@ -12,12 +12,12 @@
   </div>
   <div align=center style="margin-top:3rem">
     <h3>😎 About Me </h3>
-      <div style="display:flex; flex-direction:column;margin:0 auto;">
+      <div style="width:60%; height:100%; display:flex; flex-direction:column; margin:0 auto; font-size:0.8rem; text-align:left" align=center>
           <p>
-          👨🏻‍🎓 부경대학교 전자공학과 졸업 ✓ ( 2013.03 - 2019.02 )
+          👨🏻‍🎓 부경대학교 전자공학과 졸업 ✓ <span style="font-size:0.6rem">( 2013.03 - 2019.02 )</span>
           </p>
           <p>
-              💻 삼성청년 소프트웨어 아카데미 수료 ✓ ( 2020.01 - 2020.11) 
+              💻 삼성청년 소프트웨어 아카데미 수료 ✓ <span style="font-size:0.6rem">( 2020.01 - 2020.11)</span>
           </p>
           <p>
               📝 SSAFY 특화 프로젝트 우수상 수상 ✓
@@ -29,6 +29,7 @@
           📜 2021년 제 1회 정보처리기사 실기 합격 ✓
           </p>
   	  </div>
+
 
   </div>
 
